@@ -168,5 +168,9 @@
       <!-- Quick settings haptic feedback -->
       <string name="quick_settings_vibrate_title">Vibrate on touch</string>
       <string name="quick_settings_vibrate_summary">Vibrate when touching tiles</string>
-      
+
+      <!-- MIUI style brightness slider -->
+      <string name="brightness_slider_qs_unexpanded">MIUI style brightness slider</string>
+      <string name="brightness_slider_qs_unexpanded_summary">Shows brightness slider below qs panel</string>
+
 </resources>
