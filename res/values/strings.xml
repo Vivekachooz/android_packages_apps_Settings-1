@@ -12147,4 +12147,8 @@
     <string name="media_controls_no_players">No players available</string>
     <!-- Keywords for the media controls setting [CHAR LIMIT=NONE]-->
     <string name="keywords_media_controls">media</string>
+
+    <!-- SpiceOS Android version -->
+    <string name="spiceos_version">SpiceOS Version</string>
+
 </resources>
