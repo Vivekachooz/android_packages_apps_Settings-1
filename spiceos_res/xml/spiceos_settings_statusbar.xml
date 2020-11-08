@@ -44,6 +44,13 @@
       settings:units="" />
 
     <com.spiceos.settings.preferences.SystemSettingSwitchPreference
+      android:key="volte_vowifi_override"
+      android:icon="@drawable/ic_vowifi"
+      android:title="@string/volte_vowifi_override_title"
+      android:summary="@string/volte_vowifi_override_summary"
+      android:defaultValue="true"/>
+
+    <com.spiceos.settings.preferences.SystemSettingSwitchPreference
       android:key="roaming_indicator_icon"
       android:icon="@drawable/ic_roaming_indicator"
       android:title="@string/roaming_indicator_icon_title"
