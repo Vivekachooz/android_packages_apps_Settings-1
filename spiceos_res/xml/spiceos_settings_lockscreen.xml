@@ -24,12 +24,6 @@
         android:defaultValue="true" />
 
     <com.spiceos.settings.preferences.SystemSettingSwitchPreference
-        android:key="notification_headers"
-        android:title="@string/notification_headers_title"
-        android:summary="@string/notification_headers_summary"
-        android:defaultValue="true" />
-
-    <com.spiceos.settings.preferences.SystemSettingSwitchPreference
         android:key="lockscreen_lock_icon"
         android:icon="@drawable/ic_lock_outline"
         android:title="@string/lockscreen_lock_icon_title"
@@ -46,6 +40,5 @@
         android:icon="@drawable/ic_visualizer"
         android:title="@string/lockscreen_visualizer_title"
         android:defaultValue="false" />
-
 
 </PreferenceScreen>
