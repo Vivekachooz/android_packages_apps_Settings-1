@@ -20,9 +20,17 @@
     <!-- Three-fingers-swipe to screenshot -->
     <lineageos.preference.LineageSecureSettingSwitchPreference
         android:key="advanced_reboot"
-        android:icon="@drawable/ic_restart"        
+        android:icon="@drawable/ic_restart"
         android:title="@string/advanced_reboot_title"
         android:summary="@string/advanced_reboot_summary"
+        android:defaultValue="false" />
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <com.spiceos.settings.preferences.SystemSettingSwitchPreference
+        android:key="three_finger_gesture"
+        android:icon="@drawable/ic_three_finger_gesture"
+        android:title="@string/three_finger_gesture"
+        android:summary="@string/three_finger_gesture_summary"
         android:defaultValue="false" />
 
 </PreferenceScreen>
