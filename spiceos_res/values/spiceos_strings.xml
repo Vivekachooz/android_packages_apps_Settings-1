@@ -203,4 +203,8 @@
       <string name="three_finger_gesture">Swipe to screenshot</string>
       <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
 
+      <!--qs tint toggle-->
+      <string name="qs_bg_use_new_tint">QS tint toggle</string>
+      <string name="qs_bg_use_new_tint_summary">Use accent color for qs tile icons and background (Requires systemui reboot)</string>
+
 </resources>
