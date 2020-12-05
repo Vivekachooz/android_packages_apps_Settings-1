@@ -199,4 +199,8 @@
       <string name="qs_panel_alpha_title">Background opacity</string>
       <string name="qs_panel_alpha_summary">For Changing QS Background Opacity</string>
 
+      <!--qs tint toggle-->
+      <string name="qs_bg_use_new_tint">QS tint toggle</string>
+      <string name="qs_bg_use_new_tint_summary">Use accent color for qs tile icons and background (Requires systemui reboot)</string>
+
 </resources>
